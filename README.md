@@ -15,7 +15,7 @@
     <ul>
         <li>Python 3.x</li>
         <li>MongoDB</li>
-        <li>FastAPI and dependencies (install via <code>pip install fastapi[all]</code>)</li>
+        <li>FastAPI and dependencies (install via <code>pip install fastapi</code>)</li>
         <li>Pydantic (installed automatically with FastAPI)</li>
         <li>pymongo (install via <code>pip install pymongo</code>)</li>
         <li>uvicorn (install via <code>pip install uvicorn</code>)</li>
